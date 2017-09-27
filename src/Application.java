@@ -5,6 +5,5 @@ package PO51.Menchin.wdad;
  */
 public class Application {
     public static void main(String[] args) {
-        System.out.println("i, Menchin Dmitry, not a monkey anymore)");
+        System.out.println("i, Menchin Dmitry, not a monkey anymore.)");
     }
-}
